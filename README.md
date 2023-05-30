@@ -6,3 +6,5 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=cinit&repo=QAuxiliary)](https://github.com/cinit/QAuxiliary)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=lliioollcn&repo=PPBuff)](https://github.com/lliioollcn/PPBuff)
+
+![](https://moe-counter.glitch.me/get/@lliioollcn))
